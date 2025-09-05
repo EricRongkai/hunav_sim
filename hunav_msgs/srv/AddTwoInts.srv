@@ -1,4 +1,6 @@
-int32 A
-int32 B
+# Request part
+int32 a
+int32 b
 ---
+# Response part
 int32 sum
