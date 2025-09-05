@@ -45,6 +45,7 @@ set(srv_files
   "srv/ResetAgents.srv"
   "srv/GetParameters.srv"
   "srv/StartEvaluation.srv"
+  "srv/AddTwoInts.srv"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
