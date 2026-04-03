@@ -1,5 +1,6 @@
 # agents and robot
 hunav_msgs/Agents current_agents 
 hunav_msgs/Agent robot
+float32 sim_speed_multiplier
 ---
 hunav_msgs/Agents updated_agents
